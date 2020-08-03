@@ -1,0 +1,37 @@
+@font-face {
+	font-family: 'Gotham-Bold';
+	font-display: swap;
+	src: url("../fonts/Gotham-Bold.eot");
+	src: local("O"), url("../fonts/Gotham-Bold.woff") format("woff"), 
+			url("../fonts/Gotham-Bold.ttf") format("truetype"), 
+			url("../fonts/Gotham-Bold.svg") format("svg");
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Gotham-Medium';
+	font-display: swap;
+	src: url("../fonts/Gotham-Medium.eot");
+	src: local("O"), url("../fonts/Gotham-Medium.woff") format("woff"), 
+			url("../fonts/Gotham-Medium.ttf") format("truetype"), 
+			url("../fonts/Gotham-Medium.svg") format("svg");
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'GothamBook';
+	font-display: swap;
+	src: url("../fonts/GothamBook.eot");
+	src: local("O"), url("../fonts/GothamBook.woff") format("woff"), 
+			url("../fonts/GothamBook.ttf") format("truetype"), 
+			url("../fonts/GothamBook.svg") format("svg");
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-display: swap;
+	src: local("O"),url("../fonts/OpenSans-Regular.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
